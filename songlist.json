@@ -202,30 +202,25 @@
   "D301": {
     "code": "D301",
     "name": "Deftones",
-    "song": "Back to School (Mini Maggit)"
+    "song": "Digital Bath"
   },
   "D302": {
     "code": "D302",
     "name": "Deftones",
-    "song": "Digital Bath"
+    "song": "Graphic Nature"
   },
   "D303": {
     "code": "D303",
     "name": "Deftones",
-    "song": "Graphic Nature"
+    "song": "Hole in the Earth"
   },
   "D304": {
     "code": "D304",
     "name": "Deftones",
-    "song": "Hole in the Earth"
+    "song": "Passenger"
   },
   "D305": {
     "code": "D305",
-    "name": "Deftones",
-    "song": "Passenger"
-  },
-  "D306": {
-    "code": "D306",
     "name": "Deftones",
     "song": "Royal"
   },
@@ -946,6 +941,11 @@
   },
   "W201": {
     "code": "W201",
+    "name": "Within Reach",
+    "song": "Liar And The Host"
+  },
+  "W301": {
+    "code": "W301",
     "name": "Word Alive",
     "song": "Dark Matter"
   },
