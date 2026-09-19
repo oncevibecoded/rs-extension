@@ -484,8 +484,18 @@
     "name": "In Hearts Wake",
     "song": "Hellbringer"
   },
+  "I102": {
+    "code": "I102",
+    "name": "In Hearts Wake",
+    "song": "Survival"
+  },  
   "J101": {
     "code": "J101",
+    "name": "Jinjer",
+    "song": "On the Top"
+  },
+  "J102": {
+    "code": "J102",
     "name": "Jinjer",
     "song": "Scissors"
   },
@@ -588,6 +598,11 @@
     "code": "O101",
     "name": "Ocean Grove",
     "song": "ASK FOR THE ANTHEM"
+  },
+  "O201": {
+    "code": "O201",
+    "name": "Opeth",
+    "song": "Eternal Rains Will Come"
   },
   "P101": {
     "code": "P101",
@@ -874,6 +889,11 @@
     "name": "Tool",
     "song": "Vicarious"
   },
+  "T401": {
+    "code": "T401",
+    "name": "Trivium",
+    "song": "Rain"
+  },  
   "V101": {
     "code": "V101",
     "name": "Violent Vira",
@@ -922,15 +942,20 @@
   "W109": {
     "code": "W109",
     "name": "While She Sleeps",
-    "song": "This Is The Six"
+    "song": "The Plague of a New Age"
   },
   "W110": {
     "code": "W110",
     "name": "While She Sleeps",
+    "song": "This Is The Six"
+  },
+  "W1111": {
+    "code": "W111",
+    "name": "While She Sleeps",
     "song": "Until The Death"
   },
-  "W111": {
-    "code": "W111",
+  "W112": {
+    "code": "W112",
     "name": "While She Sleeps",
     "song": "Your Evolution"
   },
