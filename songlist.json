@@ -546,26 +546,31 @@
   },
   "M101": {
     "code": "M101",
+    "name": "Marilyn Manson",
+    "song": "Exit Wound"
+  },
+  "M201": {
+    "code": "M201",
     "name": "Muse",
     "song": "Assassin"
   },
-  "M102": {
-    "code": "M102",
+  "M202": {
+    "code": "M202",
     "name": "Muse",
     "song": "Liquid State"
   },
-  "M103": {
-    "code": "M103",
+  "M203": {
+    "code": "M203",
     "name": "Muse",
     "song": "MK Ultra"
   },
-  "M104": {
-    "code": "M104",
+  "M204": {
+    "code": "M204",
     "name": "Muse",
     "song": "The Handler"
   },
-  "M105": {
-    "code": "M105",
+  "M205": {
+    "code": "M205",
     "name": "Muse",
     "song": "The Small Print"
   },
