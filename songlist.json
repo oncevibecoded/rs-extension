@@ -2,1001 +2,1387 @@
   "1101": {
     "code": "1101",
     "name": "10 Years",
-    "song": "Knives"
+    "song": "Knives",
+    "guitar": "#0C090A"
   },
   "1102": {
     "code": "1102",
     "name": "10 Years",
-    "song": "Shoot It Out"
+    "song": "Shoot It Out",
+    "guitar": "#0C090A"
   },
   "1103": {
     "code": "1103",
     "name": "10 Years",
-    "song": "Wasteland"
+    "song": "Wasteland",
+    "guitar": "#0C090A"
   },
   "1201": {
     "code": "1201",
-    "name": "30 Seconds To Mars",
-    "song": "Attack"
+    "name": "3 Doors Down",
+    "song": "Kryptonite",
+    "guitar": "#B22222"
   },
-  "1202": {
-    "code": "1202",
+  "1301": {
+    "code": "1301",
     "name": "30 Seconds To Mars",
-    "song": "Battle Of One"
+    "song": "Attack",
+    "guitar": "#0C090A"
   },
-  "1203": {
-    "code": "1203",
+  "1302": {
+    "code": "1302",
     "name": "30 Seconds To Mars",
-    "song": "Buddha For Mary"
+    "song": "Battle Of One",
+    "guitar": "#0C090A"
   },
-  "1204": {
-    "code": "1204",
+  "1303": {
+    "code": "1303",
     "name": "30 Seconds To Mars",
-    "song": "Capricorn"
+    "song": "Buddha For Mary",
+    "guitar": "#0C090A"
   },
-  "1205": {
-    "code": "1205",
+  "1304": {
+    "code": "1304",
     "name": "30 Seconds To Mars",
-    "song": "Savior"
+    "song": "Capricorn",
+    "guitar": "#0C090A"
   },
-  "1206": {
-    "code": "1206",
+  "1305": {
+    "code": "1305",
     "name": "30 Seconds To Mars",
-    "song": "The Fantasy"
+    "song": "Savior",
+    "guitar": "#0C090A"
+  },
+  "1306": {
+    "code": "1306",
+    "name": "30 Seconds To Mars",
+    "song": "The Fantasy",
+    "guitar": "#0C090A"
+  },
+  "1307": {
+    "code": "1307",
+    "name": "30 Seconds To Mars",
+    "song": "The Kill",
+    "guitar": "#B22222"
   },
   "A101": {
     "code": "A101",
-    "name": "Alexisonfire",
-    "song": "This Could Be Anywhere In The World"
+    "name": "AFI",
+    "song": "The Leaving Song Pt. 2",
+    "guitar": "#B22222"
+  },
+  "A102": {
+    "code": "A102",
+    "name": "AFI",
+    "song": "Nooneunderground",
+    "guitar": "#B22222"
   },
   "A201": {
     "code": "A201",
-    "name": "Architects",
-    "song": "Holy Hell"
-  },
-  "A202": {
-    "code": "A202",
-    "name": "Architects",
-    "song": "Red Eyes"
+    "name": "Alexisonfire",
+    "song": "This Could Be Anywhere In The World",
+    "guitar": "#0C090A"
   },
   "A301": {
     "code": "A301",
-    "name": "As Everything Unfolds",
-    "song": "Flip Side"
+    "name": "Architects",
+    "song": "Castles In The Air",
+    "guitar": "#B22222"
   },
   "A302": {
     "code": "A302",
-    "name": "As Everything Unfolds",
-    "song": "On The Inside"
+    "name": "Architects",
+    "song": "Daybreak",
+    "guitar": "#B22222"
   },
   "A303": {
     "code": "A303",
-    "name": "As Everything Unfolds",
-    "song": "Stay"
+    "name": "Architects",
+    "song": "Even If You WIn You're Still a Rat",
+    "guitar": "#B22222"
   },
   "A304": {
     "code": "A304",
-    "name": "As Everything Unfolds",
-    "song": "Twilight"
+    "name": "Architects",
+    "song": "Holy Hell",
+    "guitar": "#0C090A"
   },
   "A305": {
     "code": "A305",
-    "name": "As Everything Unfolds",
-    "song": "Wallow"
+    "name": "Architects",
+    "song": "Red Eyes",
+    "guitar": "#0C090A"
   },
-  "A401": {
+   "A401": {
     "code": "A401",
+    "name": "Arctic Monkeys",
+    "song": "Bad Thing",
+    "guitar": "#B22222"
+  },
+   "A402": {
+    "code": "A402",
+    "name": "Arctic Monkeys",
+    "song": "Balaclava",
+    "guitar": "#B22222"
+  }, 
+   "A403": {
+    "code": "A403",
+    "name": "Arctic Monkeys",
+    "song": "Brainstorm",
+    "guitar": "#B22222"
+  }, 
+   "A404": {
+    "code": "A404",
+    "name": "Arctic Monkeys",
+    "song": "Mardy Bum",
+    "guitar": "#B22222"
+  },
+   "A405": {
+    "code": "A405",
+    "name": "Arctic Monkeys",
+    "song": "You Probably Couldn't See for the Lights but...",
+    "guitar": "#B22222"
+  },
+   "A501": {
+    "code": "A501",
+    "name": "Ariana Grande",
+    "song": "hate that i made you love me",
+    "guitar": "#B22222"
+  },
+  "A601": {
+    "code": "A601",
+    "name": "As Everything Unfolds",
+    "song": "Flip Side",
+    "guitar": "#0C090A"
+  },
+  "A602": {
+    "code": "A602",
+    "name": "As Everything Unfolds",
+    "song": "On The Inside",
+    "guitar": "#0C090A"
+  },
+  "A603": {
+    "code": "A603",
+    "name": "As Everything Unfolds",
+    "song": "Stay",
+    "guitar": "#0C090A"
+  },
+  "A604": {
+    "code": "A604",
+    "name": "As Everything Unfolds",
+    "song": "Twilight",
+    "guitar": "#0C090A"
+  },
+  "A605": {
+    "code": "A605",
+    "name": "As Everything Unfolds",
+    "song": "Wallow",
+    "guitar": "#0C090A"
+  },
+  "A701": {
+    "code": "A701",
     "name": "Asking Alexandria",
-    "song": "Alone In A Room"
+    "song": "Alone In A Room",
+    "guitar": "#0C090A"
+  },
+   "A801": {
+    "code": "A801",
+    "name": "Avenged Sevenfold",
+    "song": "STATICA",
+    "guitar": "#B22222"
   },
   "B101": {
     "code": "B101",
     "name": "Bad Omens",
-    "song": "Concrete Jungle"
+    "song": "Concrete Jungle",
+    "guitar": "#0C090A"
   },
   "B102": {
     "code": "B102",
     "name": "Bad Omens",
-    "song": "Limits"
+    "song": "Limits",
+    "guitar": "#0C090A"
   },
   "B201": {
     "code": "B201",
     "name": "Biffy Clyro",
-    "song": "That Golden Rule"
+    "song": "That Golden Rule",
+    "guitar": "#0C090A"
   },
   "B301": {
     "code": "B301",
     "name": "Born of Osiris",
-    "song": "Poster Child"
+    "song": "Poster Child",
+    "guitar": "#0C090A"
   },
   "B401": {
     "code": "B401",
     "name": "Breaking Benjamin",
-    "song": "So Cold"
+    "song": "So Cold",
+    "guitar": "#0C090A"
   },
   "B501": {
     "code": "B501",
     "name": "Bring Me The Horizon",
-    "song": "Alligator Blood"
+    "song": "Alligator Blood",
+    "guitar": "#0C090A"
   },
   "B502": {
     "code": "B502",
     "name": "Bring Me The Horizon",
-    "song": "Anthem"
+    "song": "Anthem",
+    "guitar": "#0C090A"
   },
   "B503": {
     "code": "B503",
     "name": "Bring Me The Horizon",
-    "song": "Chelsea Smile"
+    "song": "Chelsea Smile",
+    "guitar": "#0C090A"
   },
   "B504": {
     "code": "B504",
     "name": "Bring Me The Horizon",
-    "song": "Crucify Me"
+    "song": "Crucify Me",
+    "guitar": "#0C090A"
   },
   "B505": {
     "code": "B505",
     "name": "Bring Me The Horizon",
-    "song": "I don't know what to say"
+    "song": "Empire (Let Them SIng)",
+    "guitar": "#B22222"
   },
   "B506": {
     "code": "B506",
     "name": "Bring Me The Horizon",
-    "song": "Parasite Eve"
+    "song": "I don't know what to say",
+    "guitar": "#0C090A"
   },
   "B507": {
     "code": "B507",
     "name": "Bring Me The Horizon",
-    "song": "Sleep with One Eye Open"
+    "song": "Parasite Eve",
+    "guitar": "#0C090A"
   },
   "B508": {
     "code": "B508",
     "name": "Bring Me The Horizon",
-    "song": "The Comedown"
+    "song": "Sleep with One Eye Open",
+    "guitar": "#0C090A"
   },
   "B509": {
     "code": "B509",
     "name": "Bring Me The Horizon",
-    "song": "True Friends"
+    "song": "The Comedown",
+    "guitar": "#0C090A"
   },
   "B510": {
     "code": "B510",
     "name": "Bring Me The Horizon",
-    "song": "Visions"
+    "song": "True Friends",
+    "guitar": "#0C090A"
   },
   "B511": {
     "code": "B511",
+    "name": "Bring Me The Horizon",
+    "song": "Visions",
+    "guitar": "#0C090A"
+  },
+  "B512": {
+    "code": "B512",
     "name": "Bring Me The Horizon ft BABYMETAL",
-    "song": "Kingslayer"
+    "song": "Kingslayer",
+    "guitar": "#0C090A"
   },
   "B601": {
     "code": "B601",
     "name": "Bury Tomorrow",
-    "song": "Choke"
+    "song": "Choke",
+    "guitar": "#0C090A"
   },
   "C101": {
     "code": "C101",
     "name": "Chevelle",
-    "song": "Face To The Floor"
+    "song": "Face To The Floor",
+    "guitar": "#0C090A"
   },
   "C102": {
     "code": "C102",
     "name": "Chevelle",
-    "song": "Self Destructor"
+    "song": "Self Destructor",
+    "guitar": "#0C090A"
   },
   "C201": {
     "code": "C201",
     "name": "Counterparts",
-    "song": "Disconnect"
+    "song": "Disconnect",
+    "guitar": "#0C090A"
   },
   "C301": {
     "code": "C301",
     "name": "Crown The Empire",
-    "song": "BLURRY (out of place)"
+    "song": "BLURRY (out of place)",
+    "guitar": "#0C090A"
   },
   "D101": {
     "code": "D101",
     "name": "Dance Gavin Dance",
-    "song": "Uneasy Hearts Weigh The Most"
+    "song": "Uneasy Hearts Weigh The Most",
+    "guitar": "#0C090A"
   },
   "D301": {
     "code": "D301",
     "name": "Deftones",
-    "song": "Digital Bath"
+    "song": "Digital Bath",
+    "guitar": "#0C090A"
   },
   "D302": {
     "code": "D302",
     "name": "Deftones",
-    "song": "Graphic Nature"
+    "song": "Graphic Nature",
+    "guitar": "#0C090A"
   },
   "D303": {
     "code": "D303",
     "name": "Deftones",
-    "song": "Hole in the Earth"
+    "song": "Hole in the Earth",
+    "guitar": "#0C090A"
   },
   "D304": {
     "code": "D304",
     "name": "Deftones",
-    "song": "Passenger"
+    "song": "Passenger",
+    "guitar": "#0C090A"
   },
   "D305": {
     "code": "D305",
     "name": "Deftones",
-    "song": "Royal"
+    "song": "Royal",
+    "guitar": "#0C090A"
   },
   "D401": {
     "code": "D401",
     "name": "Disturbed",
-    "song": "Awaken"
+    "song": "Awaken",
+    "guitar": "#0C090A"
   },
   "D402": {
     "code": "D402",
     "name": "Disturbed",
-    "song": "Breathe"
+    "song": "Breathe",
+    "guitar": "#0C090A"
   },
   "D403": {
     "code": "D403",
     "name": "Disturbed",
-    "song": "Decadence"
+    "song": "Decadence",
+    "guitar": "#0C090A"
   },
   "D404": {
     "code": "D404",
     "name": "Disturbed",
-    "song": "Deify"
+    "song": "Deify",
+    "guitar": "#0C090A"
   },
   "D405": {
     "code": "D405",
     "name": "Disturbed",
-    "song": "Haunted"
+    "song": "Haunted",
+    "guitar": "#0C090A"
   },
   "D406": {
     "code": "D406",
     "name": "Disturbed",
-    "song": "Indestructible"
+    "song": "Indestructible",
+    "guitar": "#0C090A"
   },
   "D407": {
     "code": "D407",
     "name": "Disturbed",
-    "song": "Inside The Fire"
+    "song": "Inside The Fire",
+    "guitar": "#0C090A"
   },
   "D408": {
     "code": "D408",
     "name": "Disturbed",
-    "song": "Just Stop"
+    "song": "Just Stop",
+    "guitar": "#0C090A"
   },
   "D409": {
     "code": "D409",
     "name": "Disturbed",
-    "song": "Liberate"
+    "song": "Liberate",
+    "guitar": "#0C090A"
   },
   "D410": {
     "code": "D410",
     "name": "Disturbed",
-    "song": "Mistress"
+    "song": "Mistress",
+    "guitar": "#0C090A"
   },
   "D411": {
     "code": "D411",
     "name": "Disturbed",
-    "song": "Pain Redefined"
+    "song": "Pain Redefined",
+    "guitar": "#0C090A"
   },
   "D412": {
     "code": "D412",
     "name": "Disturbed",
-    "song": "Prayer"
+    "song": "Prayer",
+    "guitar": "#0C090A"
   },
   "D413": {
     "code": "D413",
     "name": "Disturbed",
-    "song": "Sacred Lie"
+    "song": "Sacred Lie",
+    "guitar": "#0C090A"
   },
   "D414": {
     "code": "D414",
     "name": "Disturbed",
-    "song": "Sons Of Plunder"
+    "song": "Sons Of Plunder",
+    "guitar": "#0C090A"
   },
   "D415": {
     "code": "D415",
     "name": "Disturbed",
-    "song": "Ten Thousand Fists"
+    "song": "Ten Thousand Fists",
+    "guitar": "#0C090A"
   },
   "D416": {
     "code": "D416",
     "name": "Disturbed",
-    "song": "Violence Fetish"
+    "song": "Violence Fetish",
+    "guitar": "#0C090A"
   },
   "D417": {
     "code": "D417",
     "name": "Disturbed",
-    "song": "Voices"
+    "song": "Voices",
+    "guitar": "#0C090A"
   },
   "D501": {
     "code": "D501",
     "name": "Don Broco",
-    "song": "Everybody"
+    "song": "Everybody",
+    "guitar": "#0C090A"
   },
   "D502": {
     "code": "D502",
     "name": "Don Broco",
-    "song": "Pretty"
+    "song": "Pretty",
+    "guitar": "#0C090A"
   },
   "D503": {
     "code": "D503",
     "name": "Don Broco",
-    "song": "T-shirt Song"
+    "song": "T-shirt Song",
+    "guitar": "#0C090A"
   },
   "D504": {
     "code": "D504",
     "name": "Don-Broco",
-    "song": "Uber"
+    "song": "Uber",
+    "guitar": "#0C090A"
   },
   "D601": {
     "code": "D601",
     "name": "Dream On. Dreamer",
-    "song": "Darkness Brought Me Here"
+    "song": "Darkness Brought Me Here",
+    "guitar": "#0C090A"
   },
   "D701": {
     "code": "D701",
     "name": "Dream State",
-    "song": "Are You Ready To Live?"
+    "song": "Are You Ready To Live?",
+    "guitar": "#0C090A"
   },
   "D702": {
     "code": "D702",
     "name": "Dream State",
-    "song": "Chapters"
+    "song": "Chapters",
+    "guitar": "#0C090A"
   },
   "D703": {
     "code": "D703",
     "name": "Dream State",
-    "song": "Hand In Hand"
+    "song": "Hand In Hand",
+    "guitar": "#0C090A"
   },
   "D704": {
     "code": "D704",
     "name": "Dream State",
-    "song": "Monsters"
+    "song": "Monsters",
+    "guitar": "#0C090A"
   },
   "D705": {
     "code": "D705",
     "name": "Dream State",
-    "song": "New Waves"
+    "song": "New Waves",
+    "guitar": "#0C090A"
   },
   "D706": {
     "code": "D706",
     "name": "Dream State",
-    "song": "Open Windows"
+    "song": "Open Windows",
+    "guitar": "#0C090A"
   },
   "D707": {
     "code": "D707",
     "name": "Dream State",
-    "song": "Primrose"
+    "song": "Primrose",
+    "guitar": "#0C090A"
   },
   "D708": {
     "code": "D708",
     "name": "Dream State",
-    "song": "Twenty Letters"
+    "song": "Twenty Letters",
+    "guitar": "#0C090A"
   },
   "D709": {
     "code": "D709",
     "name": "Dream State",
-    "song": "White Lies"
+    "song": "White Lies",
+    "guitar": "#0C090A"
   },
   "D801": {
-	"code": "D801",
-	"name": "Drowning Pool",
-	"song": "Mute"
+    "code": "D801",
+    "name": "Drowning Pool",
+    "song": "Mute",
+    "guitar": "#0C090A"
   },
   "D901": {
     "code": "D901",
     "name": "Dune",
-    "song": "Get It Get It"
+    "song": "Get It Get It",
+    "guitar": "#0C090A"
   },
   "E101": {
     "code": "E101",
     "name": "Element Eighty",
-    "song": "Broken Promises"
+    "song": "Broken Promises",
+    "guitar": "#0C090A"
   },
   "E201": {
     "code": "E201",
     "name": "Enter Shikari",
-    "song": "Anaesthetist"
+    "song": "Anaesthetist",
+    "guitar": "#0C090A"
   },
   "E202": {
     "code": "E202",
     "name": "Enter Shikari",
-    "song": "It Hurts"
+    "song": "It Hurts",
+    "guitar": "#0C090A"
   },
   "E203": {
     "code": "E203",
     "name": "Enter Shikari",
-    "song": "Meltdown"
+    "song": "Meltdown",
+    "guitar": "#0C090A"
   },
   "E204": {
     "code": "E204",
     "name": "Enter Shikari",
-    "song": "The Great Unknown"
+    "song": "The Great Unknown",
+    "guitar": "#0C090A"
   },
   "E301": {
     "code": "E301",
     "name": "Evanescence",
-    "song": "End Of The Dream"
+    "song": "End Of The Dream",
+    "guitar": "#0C090A"
   },
   "E302": {
     "code": "E302",
     "name": "Evanescence",
-    "song": "Oceans"
+    "song": "Oceans",
+    "guitar": "#0C090A"
   },
   "E303": {
     "code": "E303",
     "name": "Evanescence",
-    "song": "Sweet Sacrifice"
+    "song": "Sweet Sacrifice",
+    "guitar": "#0C090A"
   },
   "F101": {
     "code": "F101",
     "name": "Foals",
-    "song": "The Runner"
+    "song": "The Runner",
+    "guitar": "#0C090A"
   },
   "F102": {
     "code": "F102",
     "name": "Foals",
-    "song": "What Went Down"
+    "song": "What Went Down",
+    "guitar": "#0C090A"
   },
   "G101": {
     "code": "G101",
     "name": "Godsmack",
-    "song": "Cryin' Like A Bitch"
+    "song": "Cryin' Like A Bitch",
+    "guitar": "#0C090A"
   },
   "G102": {
     "code": "G102",
     "name": "Godsmack",
-    "song": "I Stand Alone"
+    "song": "I Stand Alone",
+    "guitar": "#0C090A"
   },
   "G103": {
     "code": "G103",
     "name": "Godsmack",
-    "song": "Love-Hate-Sex-Pain"
+    "song": "Love-Hate-Sex-Pain",
+    "guitar": "#0C090A"
   },
   "G201": {
     "code": "G201",
     "name": "Gojira",
-    "song": "The Gift Of Guilt"
+    "song": "The Gift Of Guilt",
+    "guitar": "#0C090A"
   },
   "G202": {
     "code": "G202",
     "name": "Gojira",
-    "song": "L'enfant Sauvage"
+    "song": "L'enfant Sauvage",
+    "guitar": "#0C090A"
   },
   "G203": {
     "code": "G203",
     "name": "Gojira",
-    "song": "Pray"
+    "song": "Pray",
+    "guitar": "#0C090A"
   },
   "G301": {
     "code": "G301",
     "name": "Guano Apes",
-    "song": "Break The Line"
+    "song": "Break The Line",
+    "guitar": "#0C090A"
   },
   "H101": {
     "code": "H101",
     "name": "Holding Absense",
-    "song": "Like A Shadow"
+    "song": "Like A Shadow",
+    "guitar": "#0C090A"
+  },
+  "H201": {
+    "code": "H201",
+    "name": "Holywatr",
+    "song": "Prove Me Wrong",
+    "guitar": "#0C090A"
   },
   "I101": {
     "code": "I101",
     "name": "In Hearts Wake",
-    "song": "Hellbringer"
+    "song": "Hellbringer",
+    "guitar": "#0C090A"
   },
   "I102": {
     "code": "I102",
     "name": "In Hearts Wake",
-    "song": "Survival"
-  },  
+    "song": "Survival",
+    "guitar": "#0C090A"
+  },
   "J101": {
     "code": "J101",
     "name": "Jinjer",
-    "song": "On the Top"
+    "song": "On the Top",
+    "guitar": "#0C090A"
   },
   "J102": {
     "code": "J102",
     "name": "Jinjer",
-    "song": "Scissors"
+    "song": "Scissors",
+    "guitar": "#0C090A"
   },
   "L101": {
     "code": "L101",
     "name": "Like Moth To Flames",
-    "song": "Views From Halfway Down"
+    "song": "Views From Halfway Down",
+    "guitar": "#0C090A"
   },
   "L201": {
     "code": "L201",
     "name": "Linkin Park",
-    "song": "By Myself"
+    "song": "By Myself",
+    "guitar": "#0C090A"
   },
   "L202": {
     "code": "L202",
     "name": "Linkin Park",
-    "song": "Don't Stay"
+    "song": "Don't Stay",
+    "guitar": "#0C090A"
   },
   "L203": {
     "code": "L203",
     "name": "Linkin Park",
-    "song": "Figure.09"
+    "song": "Figure.09",
+    "guitar": "#0C090A"
   },
   "L204": {
     "code": "L204",
     "name": "Linkin Park",
-    "song": "Given Up"
+    "song": "Given Up",
+    "guitar": "#0C090A"
   },
   "L205": {
     "code": "L205",
     "name": "Linkin Park",
-    "song": "Guilty All The Same"
+    "song": "Guilty All The Same",
+    "guitar": "#0C090A"
   },
   "L206": {
     "code": "L206",
     "name": "Linkin Park",
-    "song": "Lying From You"
+    "song": "Lying From You",
+    "guitar": "#0C090A"
   },
   "L301": {
     "code": "L301",
     "name": "Lostprophets",
-    "song": "Shinobi vs Dragon Ninja"
+    "song": "Shinobi vs Dragon Ninja",
+    "guitar": "#0C090A"
   },
   "L302": {
     "code": "L302",
     "name": "Lostprophets",
-    "song": "To Hell We Ride"
+    "song": "To Hell We Ride",
+    "guitar": "#0C090A"
   },
   "M101": {
     "code": "M101",
     "name": "Marilyn Manson",
-    "song": "Exit Wound"
+    "song": "Exit Wound",
+    "guitar": "#0C090A"
   },
   "M201": {
     "code": "M201",
-    "name": "Muse",
-    "song": "Assassin"
+    "name": "Movements",
+    "song": "Everything Is Fine",
+    "guitar": "#B22222"
   },
   "M202": {
     "code": "M202",
-    "name": "Muse",
-    "song": "Liquid State"
+    "name": "Movements",
+    "song": "Live By The Sword",
+    "guitar": "#B22222"
   },
-  "M203": {
-    "code": "M203",
+  "M301": {
+    "code": "M301",
     "name": "Muse",
-    "song": "MK Ultra"
+    "song": "Assassin",
+    "guitar": "#0C090A"
   },
-  "M204": {
-    "code": "M204",
+  "M302": {
+    "code": "M302",
     "name": "Muse",
-    "song": "The Handler"
+    "song": "Liquid State",
+    "guitar": "#0C090A"
   },
-  "M205": {
-    "code": "M205",
+  "M303": {
+    "code": "M303",
     "name": "Muse",
-    "song": "The Small Print"
+    "song": "MK Ultra",
+    "guitar": "#0C090A"
+  },
+  "M304": {
+    "code": "M304",
+    "name": "Muse",
+    "song": "The Handler",
+    "guitar": "#0C090A"
+  },
+  "M305": {
+    "code": "M305",
+    "name": "Muse",
+    "song": "The Small Print",
+    "guitar": "#0C090A"
   },
   "N101": {
     "code": "N101",
     "name": "Normandie",
-    "song": "Hourglass"
+    "song": "Hourglass",
+    "guitar": "#0C090A"
   },
   "N102": {
     "code": "N102",
     "name": "Normandie",
-    "song": "White Flag"
+    "song": "White Flag",
+    "guitar": "#0C090A"
   },
   "N201": {
     "code": "N201",
     "name": "Northlane",
-    "song": "Dispossession"
+    "song": "Dispossession",
+    "guitar": "#0C090A"
   },
   "N301": {
     "code": "N301",
     "name": "Nothing But Thieves",
-    "song": "Amsterdam"
+    "song": "Amsterdam",
+    "guitar": "#0C090A"
   },
   "N401": {
     "code": "N401",
     "name": "Nothing More",
-    "song": "Jenny"
+    "song": "Jenny",
+    "guitar": "#0C090A"
   },
   "O101": {
     "code": "O101",
     "name": "Ocean Grove",
-    "song": "ASK FOR THE ANTHEM"
+    "song": "ASK FOR THE ANTHEM",
+    "guitar": "#0C090A"
   },
   "O201": {
     "code": "O201",
     "name": "Opeth",
-    "song": "Eternal Rains Will Come"
+    "song": "Eternal Rains Will Come",
+    "guitar": "#0C090A"
   },
   "P101": {
     "code": "P101",
     "name": "Papa Roach",
-    "song": "Between Angels And Insects"
+    "song": "Between Angels And Insects",
+    "guitar": "#0C090A"
   },
   "P102": {
     "code": "P102",
     "name": "Papa Roach",
-    "song": "Broken Home"
+    "song": "Broken Home",
+    "guitar": "#0C090A"
   },
   "P103": {
     "code": "P103",
     "name": "Papa Roach",
-    "song": "Infest"
+    "song": "Infest",
+    "guitar": "#0C090A"
   },
   "P104": {
     "code": "P104",
     "name": "Papa Roach",
-    "song": "Revenge"
+    "song": "Revenge",
+    "guitar": "#0C090A"
   },
   "P201": {
     "code": "P201",
     "name": "Paramore",
-    "song": "Ain't It Fun"
+    "song": "Ain't It Fun",
+    "guitar": "#0C090A"
   },
   "P202": {
     "code": "P202",
     "name": "Paramore",
-    "song": "crushcrushcrush"
+    "song": "crushcrushcrush",
+    "guitar": "#0C090A"
   },
   "P203": {
     "code": "P203",
     "name": "Paramore",
-    "song": "Fences"
+    "song": "Fences",
+    "guitar": "#0C090A"
   },
   "P204": {
     "code": "P204",
     "name": "Paramore",
-    "song": "Now"
+    "song": "Now",
+    "guitar": "#0C090A"
   },
   "P205": {
     "code": "P205",
     "name": "Paramore",
-    "song": "Still Into You"
+    "song": "Still Into You",
+    "guitar": "#0C090A"
   },
   "P301": {
     "code": "P301",
     "name": "Polaris",
-    "song": "Hypermania"
+    "song": "Hypermania",
+    "guitar": "#0C090A"
   },
   "P302": {
     "code": "P302",
     "name": "Polaris",
-    "song": "No Rest"
+    "song": "No Rest",
+    "guitar": "#0C090A"
   },
   "P401": {
     "code": "P401",
     "name": "Porcupine Tree",
-    "song": "Fear Of A Blank Planet"
+    "song": "Fear Of A Blank Planet",
+    "guitar": "#0C090A"
   },
   "P402": {
     "code": "P402",
     "name": "Porcupine Tree",
-    "song": "Open Car"
+    "song": "Open Car",
+    "guitar": "#0C090A"
   },
   "P501": {
     "code": "P501",
     "name": "Post Profit",
-    "song": "Two Toxic"
+    "song": "Two Toxic",
+    "guitar": "#0C090A"
   },
   "P601": {
     "code": "P601",
     "name": "Profiler",
-    "song": "Illusion"
+    "song": "Illusion",
+    "guitar": "#0C090A"
   },
   "P602": {
     "code": "P602",
     "name": "Profiler",
-    "song": "Luciferian"
+    "song": "Luciferian",
+    "guitar": "#0C090A"
   },
   "R101": {
     "code": "R101",
     "name": "Rain City Drive x Dayseeker",
-    "song": "Medicate Me"
+    "song": "Medicate Me",
+    "guitar": "#0C090A"
   },
   "R201": {
     "code": "R201",
     "name": "Rammstein",
-    "song": "Amour"
+    "song": "Amour",
+    "guitar": "#0C090A"
   },
   "R202": {
     "code": "R202",
     "name": "Rammstein",
-    "song": "Rammlied"
+    "song": "Rammlied",
+    "guitar": "#0C090A"
   },
   "R301": {
     "code": "R301",
     "name": "Royal Blood",
-    "song": "Come On Over"
+    "song": "Come On Over",
+    "guitar": "#0C090A"
   },
   "R302": {
     "code": "R302",
     "name": "Royal Blood",
-    "song": "Hole In Your Heart"
+    "song": "Hole In Your Heart",
+    "guitar": "#0C090A"
   },
   "R303": {
     "code": "R303",
     "name": "Royal Blood",
-    "song": "Look Like You Know"
+    "song": "Look Like You Know",
+    "guitar": "#0C090A"
   },
   "R304": {
     "code": "R304",
     "name": "Royal Blood",
-    "song": "Out Of The Black"
+    "song": "Out Of The Black",
+    "guitar": "#0C090A"
   },
   "S101": {
     "code": "S101",
     "name": "Slipknot",
-    "song": "Custer"
+    "song": "Custer",
+    "guitar": "#0C090A"
   },
   "S102": {
     "code": "S102",
     "name": "Slipknot",
-    "song": "Sarcastrophe"
+    "song": "Sarcastrophe",
+    "guitar": "#0C090A"
   },
   "S103": {
     "code": "S103",
     "name": "Slipknot",
-    "song": "Solway Firth"
+    "song": "Solway Firth",
+    "guitar": "#0C090A"
   },
   "S201": {
     "code": "S201",
     "name": "Soil",
-    "song": "Unreal"
+    "song": "Unreal",
+    "guitar": "#0C090A"
   },
   "S301": {
     "code": "S301",
     "name": "Static Dress",
-    "song": "face."
-  },  
+    "song": "face.",
+    "guitar": "#0C090A"
+  },
   "S302": {
     "code": "S302",
     "name": "Static Dress",
-    "song": "Pharmacy Film"
+    "song": "Pharmacy Film",
+    "guitar": "#0C090A"
   },
   "S303": {
     "code": "S303",
     "name": "Static Dress x Underoath",
-    "song": "Nostalgia Kills"
-  },  
+    "song": "Nostalgia Kills",
+    "guitar": "#0C090A"
+  },
   "S401": {
     "code": "S401",
     "name": "Stone Sour",
-    "song": "Digital (Did You Tell)"
+    "song": "Digital (Did You Tell)",
+    "guitar": "#0C090A"
   },
   "S402": {
     "code": "S402",
     "name": "Stone Sour",
-    "song": "Made Of Scars"
+    "song": "Made Of Scars",
+    "guitar": "#0C090A"
   },
   "S403": {
     "code": "S403",
     "name": "Stone Sour",
-    "song": "Reborn"
+    "song": "Reborn",
+    "guitar": "#0C090A"
   },
   "S404": {
     "code": "S404",
     "name": "Stone Sour",
-    "song": "Tired"
+    "song": "Tired",
+    "guitar": "#0C090A"
   },
   "S501": {
     "code": "S501",
     "name": "Strata",
-    "song": "The Panic"
+    "song": "The Panic",
+    "guitar": "#0C090A"
   },
   "S601": {
     "code": "S601",
     "name": "Story Of The Year",
-    "song": "And The Hero Will Drown"
+    "song": "And The Hero Will Drown",
+    "guitar": "#0C090A"
   },
   "S701": {
     "code": "S701",
     "name": "Straight Shot Home",
-    "song": "Time Traveler"
+    "song": "Time Traveler",
+    "guitar": "#0C090A"
   },
   "S801": {
     "code": "S801",
     "name": "System Of A Down",
-    "song": "Aerials"
+    "song": "Aerials",
+    "guitar": "#0C090A"
   },
   "S802": {
     "code": "S802",
     "name": "System Of A Down",
-    "song": "Innervision"
+    "song": "Innervision",
+    "guitar": "#0C090A"
   },
   "T101": {
     "code": "T101",
     "name": "Thornhill",
-    "song": "Lavender"
+    "song": "Lavender",
+    "guitar": "#0C090A"
   },
   "T102": {
     "code": "T102",
     "name": "Thornhill",
-    "song": "Mercia"
+    "song": "Mercia",
+    "guitar": "#0C090A"
   },
   "T103": {
     "code": "T103",
     "name": "Thornhill",
-    "song": "Paparazzi"
+    "song": "Paparazzi",
+    "guitar": "#0C090A"
   },
   "T104": {
     "code": "T104",
     "name": "Thornhill",
-    "song": "Silver Swarm"
+    "song": "Silver Swarm",
+    "guitar": "#0C090A"
   },
   "T105": {
     "code": "T105",
     "name": "Thornhill",
-    "song": "Under The Knife"
+    "song": "Under The Knife",
+    "guitar": "#0C090A"
   },
   "T106": {
     "code": "T106",
     "name": "Thornhill",
-    "song": "Viper Room"
+    "song": "Viper Room",
+    "guitar": "#0C090A"
   },
   "T201": {
     "code": "T201",
     "name": "Three Days Grace",
-    "song": "Animal I Have Become"
+    "song": "Animal I Have Become",
+    "guitar": "#0C090A"
   },
   "T202": {
     "code": "T202",
     "name": "Three Days Grace",
-    "song": "I Hate Everything About You"
+    "song": "I Hate Everything About You",
+    "guitar": "#0C090A"
   },
   "T203": {
     "code": "T203",
     "name": "Three Days Grace",
-    "song": "Infra-Red"
+    "song": "Infra-Red",
+    "guitar": "#0C090A"
   },
   "T204": {
     "code": "T204",
     "name": "Three Days Grace",
-    "song": "Over And Over"
+    "song": "Over And Over",
+    "guitar": "#0C090A"
   },
   "T205": {
     "code": "T205",
     "name": "Three Days Grace",
-    "song": "Time Of Dying"
+    "song": "Time Of Dying",
+    "guitar": "#0C090A"
   },
   "T301": {
     "code": "T301",
     "name": "Tool",
-    "song": "46 & 2"
+    "song": "46 & 2",
+    "guitar": "#0C090A"
   },
   "T302": {
     "code": "T302",
     "name": "Tool",
-    "song": "Pneuma"
+    "song": "Pneuma",
+    "guitar": "#0C090A"
   },
   "T303": {
     "code": "T303",
     "name": "Tool",
-    "song": "Schism"
+    "song": "Schism",
+    "guitar": "#0C090A"
   },
   "T304": {
     "code": "T304",
     "name": "Tool",
-    "song": "The Grudge"
+    "song": "The Grudge",
+    "guitar": "#0C090A"
   },
   "T305": {
     "code": "T305",
     "name": "Tool",
-    "song": "The Patient"
+    "song": "The Patient",
+    "guitar": "#0C090A"
   },
   "T306": {
     "code": "T306",
     "name": "Tool",
-    "song": "The Pot"
+    "song": "The Pot",
+    "guitar": "#0C090A"
   },
   "T307": {
     "code": "T307",
     "name": "Tool",
-    "song": "Vicarious"
+    "song": "Vicarious",
+    "guitar": "#0C090A"
   },
   "T401": {
     "code": "T401",
     "name": "Trivium",
-    "song": "Rain"
-  },  
+    "song": "Rain",
+    "guitar": "#0C090A"
+  },
   "V101": {
     "code": "V101",
     "name": "Violent Vira",
-    "song": "Burn Me With A Bible"
+    "song": "Burn Me With A Bible",
+    "guitar": "#0C090A"
   },
   "W101": {
     "code": "W101",
     "name": "While She Sleeps",
-    "song": "Brainwashed"
+    "song": "Brainwashed",
+    "guitar": "#0C090A"
   },
   "W102": {
     "code": "W102",
     "name": "While She Sleeps",
-    "song": "Civil Isolation"
+    "song": "Civil Isolation",
+    "guitar": "#0C090A"
   },
   "W103": {
     "code": "W103",
     "name": "While She Sleeps",
-    "song": "LEAVE ME ALONE"
+    "song": "LEAVE ME ALONE",
+    "guitar": "#0C090A"
   },
   "W104": {
     "code": "W104",
     "name": "While She Sleeps",
-    "song": "Life In Tension"
+    "song": "Life In Tension",
+    "guitar": "#0C090A"
   },
   "W105": {
     "code": "W105",
     "name": "While She Sleeps",
-    "song": "New World Torture"
+    "song": "New World Torture",
+    "guitar": "#0C090A"
   },
   "W106": {
     "code": "W106",
     "name": "While She Sleeps",
-    "song": "Satisfied In Suffering"
+    "song": "Satisfied In Suffering",
+    "guitar": "#0C090A"
   },
   "W107": {
     "code": "W107",
     "name": "While She Sleeps",
-    "song": "Seven Hills"
+    "song": "Seven Hills",
+    "guitar": "#0C090A"
   },
   "W108": {
     "code": "W108",
     "name": "While She Sleeps",
-    "song": "SLEEPS SOCIETY"
+    "song": "SLEEPS SOCIETY",
+    "guitar": "#0C090A"
   },
   "W109": {
     "code": "W109",
     "name": "While She Sleeps",
-    "song": "The Plague of a New Age"
+    "song": "The Plague of a New Age",
+    "guitar": "#0C090A"
   },
   "W110": {
     "code": "W110",
     "name": "While She Sleeps",
-    "song": "This Is The Six"
+    "song": "This Is The Six",
+    "guitar": "#0C090A"
   },
-  "W1111": {
+  "W111": {
     "code": "W111",
     "name": "While She Sleeps",
-    "song": "Until The Death"
+    "song": "Until The Death",
+    "guitar": "#0C090A"
   },
   "W112": {
     "code": "W112",
     "name": "While She Sleeps",
-    "song": "Your Evolution"
+    "song": "Your Evolution",
+    "guitar": "#0C090A"
   },
   "W201": {
     "code": "W201",
     "name": "Within Reach",
-    "song": "Liar And The Host"
+    "song": "Liar And The Host",
+    "guitar": "#0C090A"
   },
   "W301": {
     "code": "W301",
     "name": "Word Alive",
-    "song": "Dark Matter"
+    "song": "Dark Matter",
+    "guitar": "#0C090A"
   },
   "RU01": {
     "code": "RU01",
-    "name": "TERELYA",
-    "song": "Все могут быть веселыми"
+    "name": "Bahroma",
+    "song": "Мало рая",
+    "guitar": "#B22222"
   },
   "RU02": {
     "code": "RU02",
+    "name": "TERELYA",
+    "song": "Все могут быть веселыми",
+    "guitar": "#0C090A"
+  },
+  "RU03": {
+    "code": "RU03",
+    "name": "TERELYA",
+    "song": "Лето",
+    "guitar": "#B22222"
+  },
+  "RU04": {
+    "code": "RU04",
     "name": "Дурной Вкус",
-    "song": "Пластинки"
+    "song": "Пластинки",
+    "guitar": "#0C090A"
+  },
+  "RU05": {
+    "code": "RU05",
+    "name": "Елена Темникова",
+    "song": "Что-то не так",
+    "guitar": "#B22222"
+  },
+  "RU06": {
+    "code": "RU06",
+    "name": "Опия",
+    "song": "Лавислэндик",
+    "guitar": "#B22222"
+  },
+  "RU07": {
+    "code": "RU07",
+    "name": "Увула",
+    "song": "Ты и твоя тень",
+    "guitar": "#B22222"
+  },
+  "RU08": {
+    "code": "RU08",
+    "name": "Увула",
+    "song": "Электрический ток",
+    "guitar": "#B22222"
   },
   "NYA01": {
     "code": "NYA01",
-    "name": "MY FIRST STORY",
-    "song": "KING and ASHLEY"
+    "name": "Minami",
+    "song": "Kawaki wo Ameku",
+    "guitar": "#B22222"
   },
   "NYA02": {
     "code": "NYA02",
-    "name": "Survive Said the Prophet",
-    "song": "Mukanjyo"
+    "name": "MY FIRST STORY",
+    "song": "KING and ASHLEY",
+    "guitar": "#0C090A"
   },
   "NYA03": {
     "code": "NYA03",
+    "name": "ORAL CIGARETTES",
+    "song": "A-E-U-I",
+    "guitar": "#B22222"
+  },
+  "NYA04": {
+    "code": "NYA04",
+    "name": "ORAL CIGARETTES",
+    "song": "Kantan na Koto",
+    "guitar": "#B22222"
+  },
+  "NYA05": {
+    "code": "NYA05",
+    "name": "Porno Graffitti",
+    "song": "The Day",
+    "guitar": "#B22222"
+  },
+  "NYA06": {
+    "code": "NYA06",
+    "name": "Sawano Hiroyuki [nZk]: mizuki",
+    "song": "Keep on Keeping on",
+    "guitar": "#B22222"
+  },
+  "NYA07": {
+    "code": "NYA07",
+    "name": "Survive Said the Prophet",
+    "song": "Mukanjyo",
+    "guitar": "#0C090A"
+  },
+  "NYA08": {
+    "code": "NYA08",
+    "name": "Vaundy",
+    "song": "Chainsaw Blood",
+    "guitar": "#B22222"
+  },
+  "NYA09": {
+    "code": "NYA09",
     "name": "Vickeblanka",
-    "song": "Black Rover"
+    "song": "Black Rover",
+    "guitar": "#0C090A"
+  },
+  "NYA10": {
+    "code": "NYA10",
+    "name": "Yui",
+    "song": "Again",
+    "guitar": "#B22222"
   }
 }
