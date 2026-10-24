@@ -79,114 +79,168 @@
   },
   "A201": {
     "code": "A201",
+    "name": "Akira Yamaoka",
+    "song": "Theme of Laura",
+    "guitar": "#B22222"
+  },
+  "A301": {
+    "code": "A301",
     "name": "Alexisonfire",
     "song": "This Could Be Anywhere In The World",
     "guitar": "#0C090A"
   },
-  "A301": {
-    "code": "A301",
+  "A401": {
+    "code": "A401",
     "name": "Architects",
     "song": "Castles In The Air",
     "guitar": "#B22222"
   },
-  "A302": {
-    "code": "A302",
+  "A402": {
+    "code": "A402",
     "name": "Architects",
     "song": "Daybreak",
     "guitar": "#B22222"
   },
-  "A303": {
-    "code": "A303",
+  "A403": {
+    "code": "A403",
     "name": "Architects",
     "song": "Even If You WIn You're Still a Rat",
     "guitar": "#B22222"
   },
-  "A304": {
-    "code": "A304",
+  "A404": {
+    "code": "A404",
     "name": "Architects",
     "song": "Holy Hell",
     "guitar": "#0C090A"
   },
-  "A305": {
-    "code": "A305",
+  "A405": {
+    "code": "A405",
     "name": "Architects",
     "song": "Red Eyes",
     "guitar": "#0C090A"
   },
-   "A401": {
-    "code": "A401",
+   "A501": {
+    "code": "A501",
     "name": "Arctic Monkeys",
     "song": "Bad Thing",
     "guitar": "#B22222"
   },
-   "A402": {
-    "code": "A402",
+   "A502": {
+    "code": "A502",
     "name": "Arctic Monkeys",
     "song": "Balaclava",
     "guitar": "#B22222"
   }, 
-   "A403": {
-    "code": "A403",
+   "A503": {
+    "code": "A503",
     "name": "Arctic Monkeys",
-    "song": "Brainstorm",
+    "song": "Brianstorm",
     "guitar": "#B22222"
   }, 
-   "A404": {
-    "code": "A404",
+   "A504": {
+    "code": "A504",
+    "name": "Arctic Monkeys",
+    "song": "Crying Lightning",
+    "guitar": "#B22222"
+  },
+   "A505": {
+    "code": "A505",
+    "name": "Arctic Monkeys",
+    "song": "Dangerous Animals",
+    "guitar": "#B22222"
+  },
+   "A506": {
+    "code": "A506",
+    "name": "Arctic Monkeys",
+    "song": "Fireside",
+    "guitar": "#B22222"
+  },
+   "A507": {
+    "code": "A507",
+    "name": "Arctic Monkeys",
+    "song": "If You Were There, Beware",
+    "guitar": "#B22222"
+  },
+   "A508": {
+    "code": "A508",
+    "name": "Arctic Monkeys",
+    "song": "Knee Socks",
+    "guitar": "#B22222"
+  },
+   "A509": {
+    "code": "A509",
     "name": "Arctic Monkeys",
     "song": "Mardy Bum",
     "guitar": "#B22222"
   },
-   "A405": {
-    "code": "A405",
+   "A510": {
+    "code": "A510",
+    "name": "Arctic Monkeys",
+    "song": "One For The Road",
+    "guitar": "#B22222"
+  },
+   "A511": {
+    "code": "A511",
+    "name": "Arctic Monkeys",
+    "song": "R U Mine?",
+    "guitar": "#B22222"
+  },
+   "A512": {
+    "code": "A512",
+    "name": "Arctic Monkeys",
+    "song": "Why’d You Only Call Me When You’re High?",
+    "guitar": "#B22222"
+  },
+   "A513": {
+    "code": "A513",
     "name": "Arctic Monkeys",
     "song": "You Probably Couldn't See for the Lights but...",
     "guitar": "#B22222"
   },
-   "A501": {
-    "code": "A501",
+   "A601": {
+    "code": "A601",
     "name": "Ariana Grande",
     "song": "hate that i made you love me",
     "guitar": "#B22222"
   },
-  "A601": {
-    "code": "A601",
+  "A701": {
+    "code": "A701",
     "name": "As Everything Unfolds",
     "song": "Flip Side",
     "guitar": "#0C090A"
   },
-  "A602": {
-    "code": "A602",
+  "A702": {
+    "code": "A702",
     "name": "As Everything Unfolds",
     "song": "On The Inside",
     "guitar": "#0C090A"
   },
-  "A603": {
-    "code": "A603",
+  "A703": {
+    "code": "A703",
     "name": "As Everything Unfolds",
     "song": "Stay",
     "guitar": "#0C090A"
   },
-  "A604": {
-    "code": "A604",
+  "A704": {
+    "code": "A704",
     "name": "As Everything Unfolds",
     "song": "Twilight",
     "guitar": "#0C090A"
   },
-  "A605": {
-    "code": "A605",
+  "A705": {
+    "code": "A705",
     "name": "As Everything Unfolds",
     "song": "Wallow",
     "guitar": "#0C090A"
   },
-  "A701": {
-    "code": "A701",
+  "A801": {
+    "code": "A801",
     "name": "Asking Alexandria",
     "song": "Alone In A Room",
     "guitar": "#0C090A"
   },
-   "A801": {
-    "code": "A801",
+   "A901": {
+    "code": "A901",
     "name": "Avenged Sevenfold",
     "song": "STATICA",
     "guitar": "#B22222"
@@ -211,90 +265,96 @@
   },
   "B301": {
     "code": "B301",
+    "name": "Blindside",
+    "song": "Pitiful",
+    "guitar": "#B22222"
+  },
+  "B401": {
+    "code": "B401",
     "name": "Born of Osiris",
     "song": "Poster Child",
     "guitar": "#0C090A"
   },
-  "B401": {
-    "code": "B401",
+  "B501": {
+    "code": "B501",
     "name": "Breaking Benjamin",
     "song": "So Cold",
     "guitar": "#0C090A"
   },
-  "B501": {
-    "code": "B501",
+  "B601": {
+    "code": "B601",
     "name": "Bring Me The Horizon",
     "song": "Alligator Blood",
     "guitar": "#0C090A"
   },
-  "B502": {
-    "code": "B502",
+  "B602": {
+    "code": "B602",
     "name": "Bring Me The Horizon",
     "song": "Anthem",
     "guitar": "#0C090A"
   },
-  "B503": {
-    "code": "B503",
+  "B603": {
+    "code": "B603",
     "name": "Bring Me The Horizon",
     "song": "Chelsea Smile",
     "guitar": "#0C090A"
   },
-  "B504": {
-    "code": "B504",
+  "B604": {
+    "code": "B604",
     "name": "Bring Me The Horizon",
     "song": "Crucify Me",
     "guitar": "#0C090A"
   },
-  "B505": {
-    "code": "B505",
+  "B605": {
+    "code": "B605",
     "name": "Bring Me The Horizon",
     "song": "Empire (Let Them SIng)",
     "guitar": "#B22222"
   },
-  "B506": {
-    "code": "B506",
+  "B606": {
+    "code": "B606",
     "name": "Bring Me The Horizon",
     "song": "I don't know what to say",
     "guitar": "#0C090A"
   },
-  "B507": {
-    "code": "B507",
+  "B607": {
+    "code": "B607",
     "name": "Bring Me The Horizon",
     "song": "Parasite Eve",
     "guitar": "#0C090A"
   },
-  "B508": {
-    "code": "B508",
+  "B608": {
+    "code": "B608",
     "name": "Bring Me The Horizon",
     "song": "Sleep with One Eye Open",
     "guitar": "#0C090A"
   },
-  "B509": {
-    "code": "B509",
+  "B609": {
+    "code": "B609",
     "name": "Bring Me The Horizon",
     "song": "The Comedown",
     "guitar": "#0C090A"
   },
-  "B510": {
-    "code": "B510",
+  "B610": {
+    "code": "B610",
     "name": "Bring Me The Horizon",
     "song": "True Friends",
     "guitar": "#0C090A"
   },
-  "B511": {
-    "code": "B511",
+  "B611": {
+    "code": "B611",
     "name": "Bring Me The Horizon",
     "song": "Visions",
     "guitar": "#0C090A"
   },
-  "B512": {
-    "code": "B512",
+  "B612": {
+    "code": "B612",
     "name": "Bring Me The Horizon ft BABYMETAL",
     "song": "Kingslayer",
     "guitar": "#0C090A"
   },
-  "B601": {
-    "code": "B601",
+  "B701": {
+    "code": "B701",
     "name": "Bury Tomorrow",
     "song": "Choke",
     "guitar": "#0C090A"
@@ -313,15 +373,33 @@
   },
   "C201": {
     "code": "C201",
+    "name": "Circa Survive",
+    "song": "Get Out",
+    "guitar": "#B22222"
+  },
+  "C301": {
+    "code": "C301",
     "name": "Counterparts",
     "song": "Disconnect",
     "guitar": "#0C090A"
   },
-  "C301": {
-    "code": "C301",
+  "C302": {
+    "code": "C302",
+    "name": "Counterparts",
+    "song": "Monument",
+    "guitar": "#B22222"
+  },
+  "C401": {
+    "code": "C401",
     "name": "Crown The Empire",
     "song": "BLURRY (out of place)",
     "guitar": "#0C090A"
+  },
+  "C501": {
+    "code": "C501",
+    "name": "The Cure",
+    "song": "Fascination Street",
+    "guitar": "#B22222"
   },
   "D101": {
     "code": "D101",
@@ -559,48 +637,72 @@
   },
   "E101": {
     "code": "E101",
+    "name": "Editors",
+    "song": "Spiders",
+    "guitar": "#B22222"
+  },
+  "E102": {
+    "code": "E102",
+    "name": "Editors",
+    "song": "Sugar",
+    "guitar": "#B22222"
+  },
+  "E103": {
+    "code": "E103",
+    "name": "Editors",
+    "song": "The Racing Rats",
+    "guitar": "#B22222"
+  },
+  "E201": {
+    "code": "E201",
     "name": "Element Eighty",
     "song": "Broken Promises",
     "guitar": "#0C090A"
   },
-  "E201": {
-    "code": "E201",
+  "E301": {
+    "code": "E301",
     "name": "Enter Shikari",
     "song": "Anaesthetist",
     "guitar": "#0C090A"
   },
-  "E202": {
-    "code": "E202",
+  "E302": {
+    "code": "E302",
     "name": "Enter Shikari",
     "song": "It Hurts",
     "guitar": "#0C090A"
   },
-  "E203": {
-    "code": "E203",
+  "E303": {
+    "code": "E303",
     "name": "Enter Shikari",
     "song": "Meltdown",
     "guitar": "#0C090A"
   },
-  "E204": {
-    "code": "E204",
+  "E304": {
+    "code": "E304",
+    "name": "Enter Shikari",
+    "song": "The Flick Of A Switch I.",
+    "guitar": "#B22222"
+  },
+  "E305": {
+    "code": "E305",
     "name": "Enter Shikari",
     "song": "The Great Unknown",
     "guitar": "#0C090A"
   },
-  "E301": {
-    "code": "E301",
+  "E401": {
+    "code": "E401",
     "name": "Evanescence",
     "song": "End Of The Dream",
     "guitar": "#0C090A"
   },
-  "E302": {
-    "code": "E302",
+  "E402": {
+    "code": "E402",
     "name": "Evanescence",
     "song": "Oceans",
     "guitar": "#0C090A"
   },
-  "E303": {
-    "code": "E303",
+  "E403": {
+    "code": "E403",
     "name": "Evanescence",
     "song": "Sweet Sacrifice",
     "guitar": "#0C090A"
@@ -619,42 +721,54 @@
   },
   "G101": {
     "code": "G101",
+    "name": "Girls Aloud",
+    "song": "Life Got Cold",
+    "guitar": "#B22222"
+  },
+  "G201": {
+    "code": "G201",
     "name": "Godsmack",
     "song": "Cryin' Like A Bitch",
     "guitar": "#0C090A"
   },
-  "G102": {
-    "code": "G102",
+  "G202": {
+    "code": "G202",
     "name": "Godsmack",
     "song": "I Stand Alone",
     "guitar": "#0C090A"
   },
-  "G103": {
-    "code": "G103",
+  "G203": {
+    "code": "G203",
     "name": "Godsmack",
     "song": "Love-Hate-Sex-Pain",
     "guitar": "#0C090A"
   },
-  "G201": {
-    "code": "G201",
+  "G301": {
+    "code": "G301",
+    "name": "Gojira",
+    "song": "Esoteric Surgery",
+    "guitar": "#B22222"
+  },
+  "G302": {
+    "code": "G302",
     "name": "Gojira",
     "song": "The Gift Of Guilt",
     "guitar": "#0C090A"
   },
-  "G202": {
-    "code": "G202",
+  "G303": {
+    "code": "G303",
     "name": "Gojira",
     "song": "L'enfant Sauvage",
     "guitar": "#0C090A"
   },
-  "G203": {
-    "code": "G203",
+  "G304": {
+    "code": "G304",
     "name": "Gojira",
     "song": "Pray",
     "guitar": "#0C090A"
   },
-  "G301": {
-    "code": "G301",
+  "G401": {
+    "code": "G401",
     "name": "Guano Apes",
     "song": "Break The Line",
     "guitar": "#0C090A"
