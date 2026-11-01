@@ -176,23 +176,35 @@
    "A510": {
     "code": "A510",
     "name": "Arctic Monkeys",
-    "song": "One For The Road",
+    "song": "My Propeller",
     "guitar": "#B22222"
   },
    "A511": {
     "code": "A511",
     "name": "Arctic Monkeys",
-    "song": "R U Mine?",
+    "song": "One For The Road",
     "guitar": "#B22222"
   },
    "A512": {
     "code": "A512",
     "name": "Arctic Monkeys",
-    "song": "Why’d You Only Call Me When You’re High?",
+    "song": "R U Mine?",
     "guitar": "#B22222"
   },
    "A513": {
     "code": "A513",
+    "name": "Arctic Monkeys",
+    "song": "Still Take You Home",
+    "guitar": "#B22222"
+  },
+   "A514": {
+    "code": "A514",
+    "name": "Arctic Monkeys",
+    "song": "Why’d You Only Call Me When You’re High?",
+    "guitar": "#B22222"
+  },
+   "A514": {
+    "code": "A514",
     "name": "Arctic Monkeys",
     "song": "You Probably Couldn't See for the Lights but...",
     "guitar": "#B22222"
@@ -428,11 +440,17 @@
   "D304": {
     "code": "D304",
     "name": "Deftones",
-    "song": "Passenger",
-    "guitar": "#0C090A"
+    "song": "Ohms",
+    "guitar": "#B22222"
   },
   "D305": {
     "code": "D305",
+    "name": "Deftones",
+    "song": "Passenger",
+    "guitar": "#0C090A"
+  },
+  "D306": {
+    "code": "D306",
     "name": "Deftones",
     "song": "Royal",
     "guitar": "#0C090A"
@@ -635,6 +653,12 @@
     "song": "Get It Get It",
     "guitar": "#0C090A"
   },
+  "D902": {
+    "code": "D902",
+    "name": "Dune",
+    "song": "Time To Leave",
+    "guitar": "#B22222"
+  },
   "E101": {
     "code": "E101",
     "name": "Editors",
@@ -698,23 +722,41 @@
   "E402": {
     "code": "E402",
     "name": "Evanescence",
-    "song": "Oceans",
-    "guitar": "#0C090A"
+    "song": "Erase This",
+    "guitar": "#B22222"
   },
   "E403": {
     "code": "E403",
     "name": "Evanescence",
+    "song": "Oceans",
+    "guitar": "#0C090A"
+  },
+  "E404": {
+    "code": "E404",
+    "name": "Evanescence",
     "song": "Sweet Sacrifice",
     "guitar": "#0C090A"
+  },
+  "E501": {
+    "code": "E501",
+    "name": "Everyone You Know",
+    "song": "She Don't Dance",
+    "guitar": "#B22222"
   },
   "F101": {
     "code": "F101",
     "name": "Foals",
-    "song": "The Runner",
-    "guitar": "#0C090A"
+    "song": "Milk And Black Spiders",
+    "guitar": "#B22222"
   },
   "F102": {
     "code": "F102",
+    "name": "Foals",
+    "song": "The Runner",
+    "guitar": "#0C090A"
+  },
+  "F103": {
+    "code": "F103",
     "name": "Foals",
     "song": "What Went Down",
     "guitar": "#0C090A"
